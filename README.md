@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python, AI and ML (and a bunch of other things)
 - 🌱 I’m currently improving my python abilities 
 - 💞️ I’m looking to collaborate on anything I find interesting or fun
-- 📫 How to reach me on Discord: Strimis10#1439
+- 📫 How to reach me:
+    Discord: Strimis10#1439
 
 <!---
 Strimis10/Strimis10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
